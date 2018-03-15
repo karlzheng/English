@@ -1,8 +1,144 @@
 001&002－Excuse Me.lrc
-001&002－Excuse Me.mp3
 003&004－Sorry, Sir..lrc
-003&004－Sorry, Sir..mp3
 005&006－Nice to Meet You..lrc
-005&006－Nice to Meet You..mp3
 007&008－Are You a Teacher.lrc
+009&010－How Are You Today.lrc
+011&012－Is This Your Shirt.lrc
+013&014－A New Dress.lrc
+015&016－Your Passports, Please..lrc
+017&018－How do you do.lrc
+019&020－Tired and Thirsty.lrc
+021&022－Which Book.lrc
+023&024－Which Glasses.lrc
+025&026－Mrs. Smith's Kitchen.lrc
+027&028－Mrs. Smith's Living Room.lrc
+029&030－Come In, Amy..lrc
+031&032－Where's Sally.lrc
+033&034－A Fine Day.lrc
+035&036－Our Village.lrc
+037&038－Making a Bookcase.lrc
+039&040－Don't Drop It.lrc
+041&042－Penny's Bag.lrc
+043&044－Hurry Up.lrc
+045&046－The Boss's Letter.lrc
+047&048－A Cup of Coffee.lrc
+049&050－At the Butcher's.lrc
+051&052－A Pleasant Climate.lrc
+053&054－An Interesting Climate.lrc
+055&056－The Sawyer Family.lrc
+057&058－An Unusual Day.lrc
+059&060－Is That All.lrc
+061&062－A Bad Cold.lrc
+063&064－Thank You, Doctor..lrc
+065&066－Not a Baby.lrc
+067&068－The Weekend.lrc
+069&070－The Car Race.lrc
+071&072－He's Awful.lrc
+073&074－The Way to King Street.lrc
+075&076－Uncomfortable Shoes.lrc
+077&078－Terrible Toothache.lrc
+079&080－Carol's Shopping List.lrc
+081&082－Roast Beef and Potatoes.lrc
+083&084－Going on Holiday.lrc
+085&086－Paris in the Spring..lrc
+087&088－A Car Crash.lrc
+089&090－For Sale.lrc
+091&092－Poor Ian.lrc
+093&094－Our New Neighbour.lrc
+095&096－Tickets, Please..lrc
+097&098－A Small Blue Case.lrc
+099&100－Ow.lrc
+101&102－A Card From Jimmy.lrc
+103&104－The French Test.lrc
+105&106－Full of Mistakes.lrc
+107&108－It's Too Small..lrc
+109&110－A Good Idea.lrc
+111&112－The Most Expensive Model.lrc
+113&114－Small Change.lrc
+115&116－Knock, Knock.lrc
+117&118－Tommy's Breakfast.lrc
+119&120－A True Story.lrc
+121&122－The Man in a Hat.lrc
+123&124－A Trip to Australia.lrc
+125&126－Tea for Two.lrc
+127&128－A Famous Actress.lrc
+129&130－Seventy Miles an Hour.lrc
+131&132－Don't be So Sure.lrc
+133&134－Sensational News.lrc
+135&136－The Latest Report.lrc
+137&138－A Pleasant Dream.lrc
+139&140－Is That You, John.lrc
+141&142－Sally's First Train Ride.lrc
+143&144－A Walk Through the Woods.lrc
+137&138－A Pleasant Dream.mp3
+129&130－Seventy Miles an Hour.mp3
+053&054－An Interesting Climate.mp3
+143&144－A Walk Through the Woods.mp3
+141&142－Sally's First Train Ride.mp3
+139&140－Is That You, John.mp3
+135&136－The Latest Report.mp3
+133&134－Sensational News.mp3
+131&132－Don't be So Sure.mp3
+127&128－A Famous Actress.mp3
+125&126－Tea for Two.mp3
+123&124－A Trip to Australia.mp3
+121&122－The Man in a Hat.mp3
+119&120－A True Story.mp3
+117&118－Tommy's Breakfast.mp3
+115&116－Knock, Knock.mp3
+113&114－Small Change.mp3
+111&112－The Most Expensive Model.mp3
+109&110－A Good Idea.mp3
+107&108－It's Too Small..mp3
+105&106－Full of Mistakes.mp3
+103&104－The French Test.mp3
+101&102－A Card From Jimmy.mp3
+099&100－Ow.mp3
+097&098－A Small Blue Case.mp3
+095&096－Tickets, Please..mp3
+093&094－Our New Neighbour.mp3
+091&092－Poor Ian.mp3
+089&090－For Sale.mp3
+087&088－A Car Crash.mp3
+085&086－Paris in the Spring..mp3
+083&084－Going on Holiday.mp3
+081&082－Roast Beef and Potatoes.mp3
+079&080－Carol's Shopping List.mp3
+077&078－Terrible Toothache.mp3
+075&076－Uncomfortable Shoes.mp3
+073&074－The Way to King Street.mp3
+071&072－He's Awful.mp3
+069&070－The Car Race.mp3
+067&068－The Weekend.mp3
+065&066－Not a Baby.mp3
+063&064－Thank You, Doctor..mp3
+061&062－A Bad Cold.mp3
+059&060－Is That All.mp3
+057&058－An Unusual Day.mp3
+055&056－The Sawyer Family.mp3
+051&052－A Pleasant Climate.mp3
+049&050－At the Butcher's.mp3
+047&048－A Cup of Coffee.mp3
+045&046－The Boss's Letter.mp3
+043&044－Hurry Up.mp3
+041&042－Penny's Bag.mp3
+039&040－Don't Drop It.mp3
+037&038－Making a Bookcase.mp3
+035&036－Our Village.mp3
+033&034－A Fine Day.mp3
+031&032－Where's Sally.mp3
+029&030－Come In, Amy..mp3
+027&028－Mrs. Smith's Living Room.mp3
+025&026－Mrs. Smith's Kitchen.mp3
+023&024－Which Glasses.mp3
+019&020－Tired and Thirsty.mp3
+017&018－How do you do.mp3
+015&016－Your Passports, Please..mp3
+013&014－A New Dress.mp3
+011&012－Is This Your Shirt.mp3
+009&010－How Are You Today.mp3
 007&008－Are You a Teacher.mp3
+005&006－Nice to Meet You..mp3
+003&004－Sorry, Sir..mp3
+001&002－Excuse Me.mp3
+021&022－Which Book.mp3
